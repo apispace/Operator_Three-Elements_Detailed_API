@@ -26,7 +26,7 @@ APISpace 提供15种开发语言的代码示例，分别是：
 
 相比于运营商三要素 API，运营商三要素详细版API 会返回认证不通过的详细原因。
 
--   点击查看 [运营商三要素](https://www.apispace.com/eolink/api/carriers/introduction?utm_source=github&utm_term=yunyingshangsan)
+-   点击查看 [运营商三要素](https://www.apispace.com/eolink/api/carriers/introduction?utm_source=github&utm_term=yunyingshangsanyaosu)
 
 
 ### 返回示例
